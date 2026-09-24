@@ -3,10 +3,10 @@
 
 ## About Me 🌸
 
-- 🌱 Currently a BAIS @Uiowa
+- 🌱 Currently studying BAIS @Uiowa
  - 📫 How to reach me: sonika-gautam@uiowa.edu
 - 🔭 Working on Sentiment Analyzer, Task Manager App    
-  - 🌍 Languages: Python  
+-🌍 Languages: Python  
 
     🍕 Fun fact, pesto pizza is great 🍕
 
