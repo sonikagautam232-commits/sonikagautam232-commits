@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi everybody, my name is Sonika! 👋
+
+![Banner Image](https://www.dreamstime.com/bright-shooting-star-blue-night-sky-banner-abstract-image-glowing-shooting-star-flying-comet-blue-night-sky-image154762928)
+
+## About Me 🌸
+
+- 🌱 Currently a BAIS @Uiowa
+ - 📫 How to reach me: sonika-gautam@uiowa.edu
+  🔭 Working on Sentiment Analyzer, Task Manager App    
+  🌍 Languages: Python  
+
+    🍕 Fun fact, pesto pizza is great 🍕
+
+
 
 <!--
 **sonikagautam232-commits/sonikagautam232-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
